@@ -1,0 +1,2 @@
+# MINI-Cursor
+Python project.
